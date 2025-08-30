@@ -1,8 +1,8 @@
 # Codveda Technologies - Data Analytics Internship
 
 ![Codveda Technologies Internship](https://img.shields.io/badge/Codveda%20Technologies-Internship-blue)
-![Data Analytics](https://img.shields.io/badge/Focus-Data%20Analytics-green)
-![Timeline](https://img.shields.io/badge/Timeline-Aug%2020%20to%20Sep%2020-lightgrey)
+![Data Analytics](https://img.shields.io/badge/Focus-Data%20Analytics-purple)
+![Timeline](https://img.shields.io/badge/Timeline-Aug%2020%20to%20Sep%2020-white)
 
 Welcome to my repository for the Data Analytics Internship at **Codveda Technologies**! This repository documents my journey, tasks, and learnings throughout this one-month program.
 
