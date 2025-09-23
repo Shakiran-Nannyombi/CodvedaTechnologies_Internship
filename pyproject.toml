@@ -5,8 +5,10 @@ description = "Internship tasks tracker"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "gensim>=4.3.2",
     "jupyter>=1.1.1",
     "matplotlib>=3.10.6",
+    "nltk>=3.9.1",
     "numpy>=2.3.2",
     "pandas>=2.3.2",
     "scikit-learn>=1.7.1",
